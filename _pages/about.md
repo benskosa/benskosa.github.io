@@ -31,7 +31,7 @@ profile:
         </a>
       </li>
       <li style="margin: 5px 0;">
-        <a href="assets/pdf/kosa_ben_cv.pdf" target="_blank" style="text-decoration: none; color: $green-color-ruei;">
+        <a href="assets/pdf/kosaBen_cv.pdf" target="_blank" style="text-decoration: none; color: $green-color-ruei;">
           <i class="fas fa-file-pdf"></i> Curriculum Vitae
         </a>
       </li>
