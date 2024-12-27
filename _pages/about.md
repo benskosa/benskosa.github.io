@@ -16,7 +16,7 @@ profile:
         </a>
       </li>
       <li style="margin: 5px 0;">
-        <a href="https://twitter.com" target="_blank" style="text-decoration: none; color: $green-color-ruei;">
+        <a href="https://x.com/bencodakosa" target="_blank" style="text-decoration: none; color: $green-color-ruei;">
           <i class="fab fa-twitter"></i> Twitter
         </a>
       </li>
