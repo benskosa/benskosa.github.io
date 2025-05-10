@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications are listed in reverse chronological order.<br><br>I try to keep this list up-to-date, but in the 5% chance I don't, check my Google Scholar for my most up-to-date publications list.
+description: Publications are listed in reverse chronological order.<br><br>I try to keep this list up-to-date, but in the 30% chance I don't, check my Google Scholar for my most up-to-date publications list.
 nav: true
 nav_order: 2
 ---
