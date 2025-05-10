@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2024-11-05 00:00:00-0400
+date: 2024-01-17 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-My work with Microsoft Research from my 2023 summer internship has been submitted to CHI'25 and has made it to the second round of review!
+My work with Microsoft Research and the University of Washington from my MSR 2023 summer internship, "Exploring Reduced Feature Sets for American Sign Language Dictionaries", was awarded Best Paper Honorable Mention🏆 at CHI 2025!
 
 <!-- <a href="TODO">Exploring Reduced Feature Sets for American Sign Language Dictionaries</a> -->
