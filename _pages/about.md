@@ -43,7 +43,7 @@ social: false # includes social icons at the bottom of the page
 
 I am a Ph.D. student at Department of Computer Science, [University of Wisconsin--Madison](https://www.cs.wisc.edu/) (UW-Madison), advised by [Dr. Yuhang Zhao](https://www.yuhangz.com/). I am currently supported by the NSF Graduate Research Fellowship (GRFP).
 
-**My research currently focuses on developing systems that expand acces to information, in particular for people with disabilities**. I have a particular interest in enabling the Blind and Low Vision (BLV), as well as Deaf and Hard of Hearing (DHH) communities. My work is interdisciplinary, combining **Human-Computer Interaction**, **Applied Machine Learning**, and **Accessibility**.
+**My research currently focuses on developing systems that expand access to information, in particular for people with disabilities**. I have a particular interest in enabling the Blind and Low Vision (BLV), as well as Deaf and Hard of Hearing (DHH) communities. My work is interdisciplinary, combining **Human-Computer Interaction**, **Applied Machine Learning**, and **Accessibility**.
 
 Prior to UW-Madison, I earned my Bachelors in Computer Science at the [University of Washington--Seattle](https://www.cs.washington.edu/who-we-are/). During my undergrad, I spent time doing Human-AI x Accessibility research at both Microsoft Research (advised by [Dr. Danielle Bragg](https://danibragg.com/) and [Dr. Alex Lu](https://www.alexluresearch.com/)) and Gallaudet Univeristy (advised by [Dr. Raja Kushalnagar](https://scholar.google.com/citations?user=2fs6tyAAAAAJ&hl=en)).
 
