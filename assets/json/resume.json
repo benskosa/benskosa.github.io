@@ -25,7 +25,10 @@
       "url": "https://gallaudet.edu/research/accessible-information-communications-technologies/",
       "startDate": "2022-05-01",
       "endDate": "2022-09-01",
-      "highlights": ["Worked on research, led by Dr. Raja Kushalnagar, that aims to address the public health disparity amongst the U.S. Deaf population by providing Deaf participants informed consent through ASL and leveraging Machine Learning.", "Research includes developing an iOS prototype using Swift, CoreML, Vision, and Figma to run user studies with Principal Investigators and Deaf. Currently experimenting with custom Sign Language Recognition models in PyTorch to improve sign language navigation in prototype."]
+      "highlights": [
+        "Worked on research, led by Dr. Raja Kushalnagar, that aims to address the public health disparity amongst the U.S. Deaf population by providing Deaf participants informed consent through ASL and leveraging Machine Learning.",
+        "Research includes developing an iOS prototype using Swift, CoreML, Vision, and Figma to run user studies with Principal Investigators and Deaf. Currently experimenting with custom Sign Language Recognition models in PyTorch to improve sign language navigation in prototype."
+      ]
     },
     {
       "name": "Microsoft Research | New York, NY",
@@ -33,7 +36,10 @@
       "url": "https://www.microsoft.com/en-us/research/group/human-computer-interaction/",
       "startDate": "2023-06-01",
       "endDate": "2023-09-01",
-      "highlights": ["Advised by Dr. Danielle Bragg (MSR), Dr. Alex Lu (MSR), and Dr. Richard Ladner (University of Washington).", "Led a research project on improving existing feature-based sign language search systems."]
+      "highlights": [
+        "Advised by Dr. Danielle Bragg (MSR), Dr. Alex Lu (MSR), and Dr. Richard Ladner (University of Washington).",
+        "Led a research project on improving existing feature-based sign language search systems."
+      ]
     },
     {
       "name": "Make4All Lab | University of Washington--Seattle",
@@ -41,7 +47,10 @@
       "url": "https://make4all.org/",
       "startDate": "2024-01-03",
       "endDate": "2024-04-01",
-      "highlights": ["Working with PhD student Kate Glazko at the University of Washington on her research investigating disability bias in Generative AI.", "Helped perform qualitative analysis and paper writing."]
+      "highlights": [
+        "Working with PhD student Kate Glazko at the University of Washington on her research investigating disability bias in Generative AI.",
+        "Helped perform qualitative analysis and paper writing."
+      ]
     },
     {
       "name": "University of Wisconsin--Madison",
@@ -69,7 +78,10 @@
       "url": "https://gallaudet.edu/youth-programs/gencyber/",
       "startDate": "2021-09-01",
       "endDate": "2024-06-01",
-      "highlights": ["Being a Child of Deaf Adult (CODA) and fluent in sign language, I’m was president of the ASL Club at the UW., a club focused on providing an ASL and Deaf culture community for people of all signing backgrounds and experience levels.", "Along with being the face of the club, the main point of communication, and managing the entire club and all of its officers, I hosted two meetings a week and multiple larger-scale community events, socials, and/or workshops per year. Meetings include teaching ASL to beginners to discuss complicated topics concerning the deaf and hard of hearing community."]
+      "highlights": [
+        "Being a Child of Deaf Adult (CODA) and fluent in sign language, I’m was president of the ASL Club at the UW., a club focused on providing an ASL and Deaf culture community for people of all signing backgrounds and experience levels.",
+        "Along with being the face of the club, the main point of communication, and managing the entire club and all of its officers, I hosted two meetings a week and multiple larger-scale community events, socials, and/or workshops per year. Meetings include teaching ASL to beginners to discuss complicated topics concerning the deaf and hard of hearing community."
+      ]
     }
   ],
   "education": [
@@ -89,7 +101,16 @@
       "studyType": "Bachelors in Science",
       "startDate": "2020-09-01",
       "endDate": "2024-06-01",
-      "courses": ["CSE 446 - Machine Learning", "CSE 447 - Natural Language Processing", "CSE 455 - Computer Vision", "CSe 493Z - Advanced Machine Learning", "CSE 528 - Computational Neuroscience", "LING 403 - Linguistics of Sign Languages", "CSE 493E - Accessibility", "CSE 440 - Intro to HCI"]
+      "courses": [
+        "CSE 446 - Machine Learning",
+        "CSE 447 - Natural Language Processing",
+        "CSE 455 - Computer Vision",
+        "CSe 493Z - Advanced Machine Learning",
+        "CSE 528 - Computational Neuroscience",
+        "LING 403 - Linguistics of Sign Languages",
+        "CSE 493E - Accessibility",
+        "CSE 440 - Intro to HCI"
+      ]
     }
   ],
   "languages": [
